@@ -8,3 +8,7 @@ build/
 # Go 构建缓存（磁盘空间不足时可指向其他盘）
 .gotmp/
 .gocache/
+
+# idea配置
+.idea/
+*.iml
