@@ -1,0 +1,10 @@
+# 构建产物
+http-proxy-gui.exe
+httpproxy.exe
+
+# Wails 构建输出
+build/
+
+# Go 构建缓存（磁盘空间不足时可指向其他盘）
+.gotmp/
+.gocache/

@@ -1,0 +1,8 @@
+# 设置启动端口
+server:
+  host: ${SERVER_HOST:0.0.0.0}
+  port: ${SERVER_PORT:3100}
+
+# 代理配置
+proxy:
+  addr: ${PROXY_ADDR:http://192.168.1.15:11434}

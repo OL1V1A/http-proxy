@@ -1,0 +1,22 @@
+{
+  "name": "http-proxy",
+  "outputfilename": "http-proxy-gui.exe",
+  "frontend:dir": "frontend",
+  "frontend:install": "",
+  "frontend:build": "",
+  "frontend:bridge": "wailsjs",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "info": {
+    "companyName": "http-proxy",
+    "productName": "HTTP 代理转发工具",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright © 2026",
+    "comments": "本地 HTTP 反向代理转发桌面工具"
+  },
+  "windows": {
+    "icon": ""
+  }
+}
